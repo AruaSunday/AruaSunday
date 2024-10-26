@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1> Im A Frontend Engineer </h1>
+<h1> I'm a Frontend Engineer </h1>
 <p></p>
 
 
